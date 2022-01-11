@@ -7,9 +7,9 @@ I currently work for a Latin American Bank from Brazil.
 
 I'm improving my skills in <strong> Java and AWS </strong> and many other cool technology things.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=lauragirdwood&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=lauragirdwood&theme=cobalt&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lauragirdwood)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lauragirdwood&theme=cobalt)
 
 
 <!--
